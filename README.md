@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">PEACHG</h1>
+<h1 align="center">PEACHG</h1>
 
 <!--
 **PEACHGOBBLER/PEACHGOBBLER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
