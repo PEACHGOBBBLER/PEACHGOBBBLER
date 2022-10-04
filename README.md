@@ -2,7 +2,7 @@
 <em><p align="center">Pleasure Endangers All Channeled Humility G<p></em>
 <p align="center">"Keep it <em>Smooth</em>"<p>
 <p align="center">
-<img width="400" src="https://user-images.githubusercontent.com/109111999/193542371-93aaa1ab-c988-4baf-9dc8-fd41580ed0a7.png" align="center">
+<img width="400" src="https://user-images.githubusercontent.com/109111999/193733109-aa2cf9b7-62fe-4e49-aa91-e3619689fd77.png" align="center">
 </p>
 <br>
 <p align="center">
