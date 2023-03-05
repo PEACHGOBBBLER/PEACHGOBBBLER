@@ -6,6 +6,6 @@
 </p>
 <br>
 <p align="center">
-<img alt="JS" src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000"> <img alt="MD" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"> <img alt="PS" src="https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000">
+<img alt="JS" src="https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000"> <img alt="PS" src="https://img.shields.io/badge/--31A8FF?logo=adobe%20photoshop&logoColor=000">
 </p>
 
